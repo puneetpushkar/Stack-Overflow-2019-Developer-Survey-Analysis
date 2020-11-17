@@ -24,4 +24,4 @@ I have attached the Jupyter Notebook in the files section
 
 
 ## Technology Used:
-![Python](https://i.imgur.com/Dm6ice0.png)
+<img src = "https://i.imgur.com/Dm6ice0.png" width = "350" height = "250">
