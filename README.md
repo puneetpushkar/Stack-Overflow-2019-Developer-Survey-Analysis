@@ -21,3 +21,7 @@ This Notebook is made for anyone who is starting up in the field data analysis, 
 If you feel like this Repository helps in anyway do **Star** it, PR are invited
 
 I have attached the Jupyter Notebook in the files section
+
+
+## Technology Used:
+![Python](https://i.imgur.com/Dm6ice0.png)
