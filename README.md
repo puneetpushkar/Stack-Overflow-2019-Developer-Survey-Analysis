@@ -23,5 +23,8 @@ If you feel like this Repository helps in anyway do **Star** it, PR are invited
 I have attached the Jupyter Notebook in the files section
 
 
-## Technology Used:
-<img src = "https://i.imgur.com/Dm6ice0.png" width = "350" height = "250">
+## Language/ Library Used:
+<img src = "https://i.imgur.com/Dm6ice0.png" width = "350" height = "200" title = "Python">
+<img src = "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/03/pandas.jpg" width = "350" height = "200" title = "Pandas">
+<img src = "https://miro.medium.com/max/400/1*mc5YIn7jvo5uwuqBOUDw7Q.jpeg" width = "350" height = "250" title = "Numpy">
+
